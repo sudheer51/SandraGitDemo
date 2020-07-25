@@ -1,4 +1,3 @@
 # SandraGitDemo
 Git Demo for Students
-Today we are discussing about Github
-We will discuss about Gitbash as well
+Today we are discussing about GithubTrying to merge two branches together.
